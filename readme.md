@@ -1,3 +1,9 @@
+# WIP: college-bot
+- fb messenger chatbot to help with college admissions, FAFSA, and financial aid information
+- built on top of [Hartley Brody's fb chatbot template](https://blog.hartleybrody.com/fb-messenger-bot) - original documentation below
+
+---
+
 # Facebook Messenger Bot
 This is a simple python template that uses Flask to build a webhook for Facebook's Messenger Bot API.
 
